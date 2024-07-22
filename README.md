@@ -1,7 +1,7 @@
 # k8s-azure-pythonDockerK8s-project
 #K8s Azure >> Python - Docker - AKS
 
-******************************************************* 
+*******************************************************  
 Here we will create a local docker container, run thru the docker build commands, create kubernetes cluster commands and deploy docker image into your aks cluster
 ******************************************************* 
 az account show
